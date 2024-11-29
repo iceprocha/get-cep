@@ -1,0 +1,36 @@
+.tagSemCep {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFF;
+    width: 330px;
+    border-radius: 8px;
+    font-size: 50px;
+    color: #0a078d;
+}
+
+.dadosCep {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFF;
+    width: 330px;
+    border-radius: 8px;
+}
+
+.dadosCep dl dt {
+
+    font-size: 20px;
+    color: #0a078d;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.dadosCep dl dd {
+    font-size: 15px;
+    color: #7c0d0d;
+    margin-top: 10px;
+    font-weight: 300;
+}
